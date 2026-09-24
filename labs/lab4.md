@@ -14,4 +14,4 @@
 
  * IMPACT  :- The payload sent thorugh url parameter . the application check img src . img src failed . error generate and alert function() trigger  in stock function . 
    
-  ![DOM xss ](image.png)
+  ![DOM xss ](image.png) 
